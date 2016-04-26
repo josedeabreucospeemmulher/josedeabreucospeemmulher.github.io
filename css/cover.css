@@ -117,6 +117,9 @@ body {
   font-weight: bold;
 }
 
+.list-group, .list-group-item {
+  background-color: #333;
+  }
 
 /*
  * Footer
